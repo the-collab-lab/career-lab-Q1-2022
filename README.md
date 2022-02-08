@@ -14,7 +14,7 @@
 | Wed, [DATE] - Sat, [DATE]                     | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 | Thurs, March 17th @ 5PM PT                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | Sat, [DATE] - your mock interviews          | Sync  | [Pair interview practice (optional)](./session-docs/pair-interview-practice.md)                                     |
-| Sun, [DATE]                                 | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
+| Sun, March 13th @ 11 AM PT                                 | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
 | Sun, [DATE]                                 | Sync  | [Intro to the take-home assignment](./session-docs/intro-to-take-home.md)                                |
 | Sun, [DATE] - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                          |
 | Mon, [DATE] - Sat, [DATE]                    | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
