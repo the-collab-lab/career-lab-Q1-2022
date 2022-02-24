@@ -32,3 +32,18 @@ Job-Fit Interview Pairings:
 
 | Collabie | Job Fit Interviewer |
 | ---- | ---- |
+| Elizabeth Rivera Ura | Alejandro Mauricio Coca  |
+| Jairo Espinel | Alejandro Mauricio Coca  |
+| Alena M | Aditya Dalal  |
+| Kristen Monnik | Aditya Dalal  |
+| Nick Zanetti | Eddie Solar  |
+| Shelley McHardy | Eddie Solar |
+| Amber Jiles | Nick Taylor  |
+| Rafa Brown | Nick Taylor |
+| Chris Korsak | Chris Dopuch |
+| Diyana Mendoza-Price | Chris Dopuch |
+| Viviana Davila | Andrew Hedges  |
+| Lindsey Dinkel | Andrew Hedges |
+| DJ Taylor | Doug Gorley |
+| Cynthia Eddy | Doug Gorley |
+| Kathy Lambert | Stacie Taylor |
