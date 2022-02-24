@@ -32,3 +32,18 @@ Technical Interview Pairings:
 
 | Collabie | Technical Interviewer |
 | ---- | ---- |
+| Elizabeth Rivera Ura | Juliana Gomez |
+| Jairo Espinel | Juliana Gomez |
+| Alena M | Indira Gutierrez |
+| Kathy Lambert | Indira Gutierrez |
+| Kristen Monnik | Indira Gutierrez |
+| Nick Zanetti | Frank Stepanski |
+| Shelley McHardy | Frank Stepanski |
+| Amber Jiles | David Baker |
+| Rafa Brown | David Baker |
+| Diyana Mendoza-Price | Janavi Shah |
+| Viviana Davila | Janavi Shah  |
+| Lindsey Dinkel | EJ Mason |
+| Cynthia Eddy | EJ Mason |
+| DJ Taylor | Chris Dopuch |
+| Chris Korsak | Chris Dopuch |
