@@ -19,18 +19,18 @@ Linkedin Review Pairings:
 
 | Collabie | Linkedin Reviewer |
 | ---- | ---- |
-| Elizabeth Rivera Ura | Indira Gutierrez | 
-| Jairo Espinel | Indira Gutierrez | 
+| Elizabeth Rivera Ura | Abraham Velazquez | 
+| Jairo Espinel | Abraham Velazquez | 
 | Chris Korsak | Angelica Chung | 
 | Lindsey Dinkel | Angelica Chung | 
-| Shelley McHardy | Jennifer Batara | 
 | Cynthia Eddy | Jennifer Batara |
 | Amber Jiles | Jennifer Batara |
+| Shelley McHardy | Jennifer Batara |
 | Diyana Mendoza-Price | Eddie Hinkle| 
 | DJ Taylor | Eddie Hinkle | 
 | Kathy Lambert | Lauren Yu | 
-| Kristen Monnik | Lauren Yu | 
+| Kristen Monnik | Lauren Yu |
+| Viviana Davila | Lauren Yu |
 | Alena M | Yolanda Haynes | 
 | Rafa Brown | Yolanda Haynes | 
-| Viviana Davila | Abraham Velazquez | 
-| Nick Zanetti | Abraham Velazquez | 
+| Nick Zanetti | Yolanda Haynes |
