@@ -20,7 +20,7 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 
 - Review the take-home assignment with the Collabie and ask questions about the work **[20 minutes]**
 - General technical questions from the [Technical interview questions](../resources/technical-interview-questions.md) **[10 minutes]**
-- Time for Collabie to ask questions about your work, the job opportunity they are applying for, and company **[10 minutes]**
+- Time for Collabie to ask questions about your work, the job opportunity they are applying for, and company. When Collabies ask these questions, mentors should just respond as if the Collabie is interviewing for a role at their current company. **[10 minutes]**
 - Debrief and provide feedback about the interview **[20 minutes]**
 
 ---
