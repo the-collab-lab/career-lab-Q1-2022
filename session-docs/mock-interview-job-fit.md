@@ -21,7 +21,7 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 ## Interview agenda
 
 - General job-fit interview questions from the [Job fit interview questions](../resources/job-fit-interview-questions.md) **[30 minutes]**
-- Interviewee questions about job abd company **[10 minutes]**
+- Time for Collabie to ask questions about your work, the job opportunity they are applying for, and company. When Collabies ask these questions, mentors should just respond as if the Collabie is interviewing for a role at their current company. [10 minutes]
 - Debrief and provide feedback **[20 minutes]**
 
 ---
