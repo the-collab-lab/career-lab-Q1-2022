@@ -13,10 +13,10 @@
 | Wed, March 9th @ 11AM PT                                 | Sync  | [Linkedin Profile Q&A](./session-docs/linkedin-qanda.md)                                                 |
 | Wed, March 9th - Sat, March 12th                     | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 | Fri, March 10th @ 4PM PT                              | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
-| Thurs, March 17th @ 5PM PT                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | Sat, March 12th - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                          |
 | Sat, March 12th - your mock interviews          | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
 | Sun, March 13th @ 11 AM PT                                 | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
 | Mon, March 14th - Sat, March 19th                    | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
 | Mon, March 14th - Sat, March 19th                    | Sync  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
+| Thurs, March 17th @ 5PM PT                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | Sun, March 20th @ 9AM PT                                 | Sync  | [Graduation](./session-docs/graduation.md)                                                               |
