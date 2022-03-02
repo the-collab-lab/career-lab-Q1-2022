@@ -4,11 +4,11 @@
 
 ## Collabies:
 
-Please ping your assigned mentor with your profile that is ready for review no later than Friday, March 11th!
+Please ping your assigned mentor with your profile that is ready for review **NO LATER** than Friday, March 11th!
 
 ## Mentors:
 
-Please have review and [rubric](https://the-collab-lab.slack.com/archives/C01L13XNS73/p1614915073114000?thread_ts=1614915062.113600&cid=C01L13XNS73) submitted to Collabies by Sunday, March 13th.
+Please have review and [rubric](https://docs.google.com/spreadsheets/d/1e0n1k6izyZM0mkmkL9zezr7FW2-qRLu-bmFnYBLVkLs/edit#gid=0) submitted to Collabies by Sunday, March 13th.
 
 ---
 
