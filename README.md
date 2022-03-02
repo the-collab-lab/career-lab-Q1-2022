@@ -16,7 +16,7 @@
 | Sat, March 12th - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                          |
 | Sat, March 12th - your mock interviews          | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
 | Sun, March 13th @ 11 AM PT                                 | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
-| Mon, March 14th - Sat, March 19th                    | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
 | Mon, March 14th - Sat, March 19th                    | Sync  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
+| Mon, March 14th - Sat, March 19th                    | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
 | Thurs, March 17th @ 5PM PT                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | Sun, March 20th @ 9AM PT                                 | Sync  | [Graduation](./session-docs/graduation.md)                                                               |
