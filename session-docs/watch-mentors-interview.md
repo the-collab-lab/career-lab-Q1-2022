@@ -11,9 +11,9 @@ There are 2 common types of interviews that most companies do: job fit and techn
 
 # Job fit
 
-[NAME] will interview [NAME] in a mock job fit interview.
+Andrew Hedges will interview Stacie Taylor in a mock job fit interview.
 
 # Technical
 
-[NAME] will interview [NAME] in a mock technical interview, spending most of the time reviewing her take home assignment.
+Luis Augusto will interview Jennifer Batara in a mock technical interview, spending most of the time reviewing her take home assignment.
 
