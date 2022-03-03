@@ -10,7 +10,7 @@ What you ask and how you word your questions can reflect either positively or ne
 
 ## Watch the video
 
-[![Link to the video of Andrew talking about what to ask your interviewers](https://cdn.zappy.app/373914ef2231b14a73e506b96fe26c80.gif)](https://youtu.be/baAHNxdiebk)
+[Link to the video of Andrew talking about what to ask your interviewers](https://youtu.be/baAHNxdiebk)
 
 [English transcript](transcripts/what-to-ask-your-interviewers-english.txt) | [Transcripción en español](transcripts/what-to-ask-your-interviewers-spanish.txt)
 
