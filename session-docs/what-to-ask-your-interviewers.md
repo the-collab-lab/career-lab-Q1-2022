@@ -26,4 +26,4 @@ What do you want to know to help you make an informed decision about whether you
 
 ## Attend the Q&A about your questions (optional)
 
-If it would be helpful to get feedback on your questions and hear what questions others came up with, join the optional debrief/Q&A on Xyz 99 @ 99pm Pacific.
+If it would be helpful to get feedback on your questions and hear what questions others came up with, join the optional debrief/Q&A on Friday, March 9th @ 1PM PT.
