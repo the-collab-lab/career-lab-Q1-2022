@@ -8,7 +8,7 @@ Please ping your assigned mentor with your profile that is ready for review **NO
 
 ## Mentors:
 
-Please have review and [rubric](https://docs.google.com/spreadsheets/d/1e0n1k6izyZM0mkmkL9zezr7FW2-qRLu-bmFnYBLVkLs/edit#gid=0) submitted to Collabies by Sunday, March 13th.
+Please have reviewed and [rubric](https://docs.google.com/spreadsheets/d/1e0n1k6izyZM0mkmkL9zezr7FW2-qRLu-bmFnYBLVkLs/edit#gid=0) submitted to Collabies by Sunday, March 13th.
 
 ---
 
