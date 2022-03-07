@@ -43,7 +43,6 @@ Job-Fit Interview Pairings:
 | Rafa Brown | Nick Taylor |
 | Viviana Davila | Andrew Hedges  |
 | Lindsey Dinkel | Andrew Hedges |
-| DJ Taylor | Doug Gorley |
 | Cynthia Eddy | Doug Gorley |
 | Diyana Mendoza-Price | Doug Gorley |
 | Kathy Lambert | Stacie Taylor |
