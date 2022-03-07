@@ -45,5 +45,4 @@ Technical Interview Pairings:
 | Viviana Davila | JC Coto  |
 | Lindsey Dinkel | EJ Mason |
 | Cynthia Eddy | EJ Mason |
-| DJ Taylor | Chris Dopuch |
 | Chris Korsak | Chris Dopuch |
