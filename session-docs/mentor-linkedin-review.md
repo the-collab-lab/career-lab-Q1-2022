@@ -27,7 +27,6 @@ Linkedin Review Pairings:
 | Amber Jiles | Jennifer Batara |
 | Shelley McHardy | Jennifer Batara |
 | Diyana Mendoza-Price | Eddie Hinkle| 
-| DJ Taylor | Eddie Hinkle | 
 | Kathy Lambert | Lauren Yu | 
 | Kristen Monnik | Lauren Yu |
 | Viviana Davila | Lauren Yu |
