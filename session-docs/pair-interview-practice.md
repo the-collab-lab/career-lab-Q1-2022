@@ -10,12 +10,12 @@ Reach out to the partner you are paired with below, schedule a meeting, and work
 If you have questions or comments, please don't hesitate to reach out in your cohort Slack channel!
 
 
-| Collabie | Collabie | Collabie |
-| --- | --- | --- | 
-| Elizabeth Rivera Ura   | Jairo Espinel | - | 
-| Alena M | Chris Korsak| - | 
-| Kathy Lambert | DJ Taylor | -  |
-| Kristen Monnik | Cynthia Eddy | -  | 
-| Nick Zanetti | Lindsey Dinkel | - | 
-| Shelley McHardy | Viviana Davila |-  | 
-| Amber Jiles | Diyana Mendoza-Price | Rafa Brown |  
+| Collabie | Collabie | 
+| --- | --- |
+| Elizabeth Rivera Ura   | Jairo Espinel | 
+| Alena M | Chris Korsak| 
+| Kathy Lambert | Rafa Brown |
+| Kristen Monnik | Cynthia Eddy | 
+| Nick Zanetti | Lindsey Dinkel |
+| Shelley McHardy | Viviana Davila |
+| Amber Jiles | Diyana Mendoza-Price | 
